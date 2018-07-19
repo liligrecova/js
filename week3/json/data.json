@@ -1,0 +1,14 @@
+{
+
+  "FRENCH":
+  {
+    "title": "Bonjour!",
+    "button_text": "Cliquez-moi!"
+  },
+
+  "ENGLISH":
+  {
+    "title": "Hello!",
+    "button_text": "Click me!"
+  }
+}

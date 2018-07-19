@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+  margin: 0;
+  padding: 0;
+}
+h3 {
+	font-family: cursive;
+	text-align: center;
+}
+.container {
+  background-color: aqua;
+  width: 200px;
+  height: 300px;
+  margin: 0 auto;
+  position: absolute;
+  left: 50%;
+  top:50%;
+  margin-left: -100px;
+  margin-top: -150px;
+}
+
+.fields {
+  display: block;
+  width: 140px;
+  height: 20px;
+  margin: 5px auto;
+  text-align: center;
+}
+
+.buttons {
+  display: block;
+  width: 190px;
+  height: 20px;
+  margin: 5px auto;
+}
+
+.result {
+  width: 100px;
+  height: 20px;
+  background-color: yellow;
+  margin: 10px auto;
+  text-align: center;
+  padding: 5px;
+}
